@@ -1,0 +1,6 @@
+venv
+.venv
+.idea
+similarity.pkl
+.gitignore
+gitignore
