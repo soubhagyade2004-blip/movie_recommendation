@@ -99,7 +99,8 @@ urllib3
 ---
 
 ## 📸 Screenshots  
-(Add screenshots of your UI here)
+<img width="1915" height="868" alt="image" src="https://github.com/user-attachments/assets/5d5e24ab-b3eb-4be3-ba39-805508cdb25e" />
+
 
 ---
 
